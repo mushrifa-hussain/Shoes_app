@@ -1,16 +1,26 @@
-# shop_app
+# 👟 Shoes App
 
-A new Flutter project.
+Shoes App is a **Flutter shopping application** where users can explore different shoes, view product details, and manage their cart seamlessly.  
+It uses **Provider** for state management to keep the UI updated efficiently when products are added or removed from the cart.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## ✨ Features
+- 🛍️ Browse a collection of shoes from different brands  
+- 📄 View detailed product information (image, price, size, company, etc.)  
+- ➕ Add products to cart  
+- ➖ Remove products from cart  
+- 🔄 Real-time cart updates using **Provider**  
+- 🎨 Modern UI with Material Design  
+- 🔍 Filter products by brand  
 
-A few resources to get you started if this is your first Flutter project:
+---
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## 🛠️ Tech Stack
+- **Flutter** (Dart) – for building the cross-platform app  
+- **Provider** – for state management  
+- **Material Design** – for clean and responsive UI  
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+---
+
+## 📂 Project Structure
