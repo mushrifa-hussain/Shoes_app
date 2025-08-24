@@ -23,4 +23,3 @@ It uses **Provider** for state management to keep the UI updated efficiently whe
 
 ---
 
-## 📂 Project Structure
